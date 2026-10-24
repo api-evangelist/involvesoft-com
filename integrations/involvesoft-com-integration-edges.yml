@@ -1,0 +1,22 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/involvesoft-com/integrations
+- https://zapier.com/apps/involvesoft/integrations
+- https://zapier.com/apps/involve-ai/integrations
+- https://n8n.io/integrations/involvesoft-com/
+- https://n8n.io/integrations/involvesoft/
+- https://composio.dev/toolkits/involvesoft-com
+- https://monid.ai/tools/involvesoft-com
+checked:
+- https://composio.dev/toolkits/involvesoft-com
+- https://monid.ai/tools/involvesoft-com
+- https://n8n.io/integrations/involvesoft-com/
+- https://n8n.io/integrations/involvesoft/
+- https://zapier.com/apps/involve-ai/integrations
+- https://zapier.com/apps/involvesoft-com/integrations
+- https://zapier.com/apps/involvesoft/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
